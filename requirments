@@ -1,0 +1,22 @@
+#utilities
+numpy
+pandas
+
+
+#   FACE RECOGNITION
+scikit-learn
+
+
+
+setuptools<70.0.0 
+
+
+supabase  #data base
+bcrypt  #password hashing
+
+pillow #image processing
+segno #url qr code generation
+git+https://github.com/ageitgey/face_recognition_models
+
+streamlit #web app framework easist way to deploy
+
